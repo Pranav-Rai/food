@@ -1,0 +1,54 @@
+const Menu = [
+    {
+        id:"1",
+        status:"Delievered",
+        food:"Maggie"
+    },
+    {
+        id:"2",
+        status:"Ready",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Cancelled",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Ready",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Ready",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Delievered",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Cancelled",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Cancelled",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Preparing",
+        food:"Maggie"
+    },
+    {
+        id:"1",
+        status:"Waiting",
+        food:"Maggie"
+    },
+]
+
+export default Menu
